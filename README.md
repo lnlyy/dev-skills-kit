@@ -1,6 +1,6 @@
 # Development Skills
 
-This repository contains local agent skills used during software development. Each directory is an independent skill with a `SKILL.md` entry point that defines its purpose, trigger conditions, and workflow.
+A collection of development skills & coding specifications. Mainly for Java development, including Java coding standards and general project specifications applicable to all languages. Part self-written, part sorted from open resources.
 
 ## Skill Catalog
 
